@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Install xmllint
+      run: sudo apt-get install -y libxml2-utils
     - name: Fetch latest data
       run: |-
         curl "https://offenedaten.frankfurt.de/dataset/912fe0ab-8976-4837-b591-57dbf163d6e5/resource/48378186-5732-41f3-9823-9d1938f2695e/download/parkdaten_dyn.xml" | xmllint --format - > parkdaten_dyn.xml
