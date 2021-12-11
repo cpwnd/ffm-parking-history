@@ -7,7 +7,7 @@
     </supplierIdentification>
   </exchange>
   <payloadPublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GenericPublication" lang="de">
-    <publicationTime>2021-12-11T23:57:00.365+01:00</publicationTime>
+    <publicationTime>2021-12-12T00:22:01.684+01:00</publicationTime>
     <publicationCreator>
       <country>de</country>
       <nationalIdentifier>DE-MDM-Stadt Frankfurt</nationalIdentifier>
@@ -20,55 +20,55 @@
           <informationStatus>real</informationStatus>
         </headerInformation>
         <parkingAreaStatus>
-          <parkingAreaOccupancy>0.24876441</parkingAreaOccupancy>
+          <parkingAreaOccupancy>0.22405271</parkingAreaOccupancy>
           <parkingAreaReference targetClass="ParkingArea" id="1[Anlagenring]" version="1.0"/>
-          <parkingAreaStatusTime>2021-12-11T23:58:00.000+01:00</parkingAreaStatusTime>
-          <parkingAreaTotalNumberOfVacantParkingSpaces>456</parkingAreaTotalNumberOfVacantParkingSpaces>
+          <parkingAreaStatusTime>2021-12-12T00:23:00.000+01:00</parkingAreaStatusTime>
+          <parkingAreaTotalNumberOfVacantParkingSpaces>471</parkingAreaTotalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>150</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityShortTermOverride>607</totalParkingCapacityShortTermOverride>
         </parkingAreaStatus>
         <parkingAreaStatus>
-          <parkingAreaOccupancy>0.39304814</parkingAreaOccupancy>
+          <parkingAreaOccupancy>0.39171124</parkingAreaOccupancy>
           <parkingAreaReference targetClass="ParkingArea" id="4[Bahnhofsviertel]" version="1.0"/>
-          <parkingAreaStatusTime>2021-12-11T23:58:00.000+01:00</parkingAreaStatusTime>
-          <parkingAreaTotalNumberOfVacantParkingSpaces>454</parkingAreaTotalNumberOfVacantParkingSpaces>
+          <parkingAreaStatusTime>2021-12-12T00:23:00.000+01:00</parkingAreaStatusTime>
+          <parkingAreaTotalNumberOfVacantParkingSpaces>455</parkingAreaTotalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityShortTermOverride>748</totalParkingCapacityShortTermOverride>
         </parkingAreaStatus>
         <parkingAreaStatus>
-          <parkingAreaOccupancy>0.5659919</parkingAreaOccupancy>
+          <parkingAreaOccupancy>0.54412955</parkingAreaOccupancy>
           <parkingAreaReference targetClass="ParkingArea" id="5[Dom / Römer]" version="1.0"/>
-          <parkingAreaStatusTime>2021-12-11T23:58:00.000+01:00</parkingAreaStatusTime>
-          <parkingAreaTotalNumberOfVacantParkingSpaces>536</parkingAreaTotalNumberOfVacantParkingSpaces>
+          <parkingAreaStatusTime>2021-12-12T00:23:00.000+01:00</parkingAreaStatusTime>
+          <parkingAreaTotalNumberOfVacantParkingSpaces>563</parkingAreaTotalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityShortTermOverride>1235</totalParkingCapacityShortTermOverride>
         </parkingAreaStatus>
         <parkingAreaStatus>
-          <parkingAreaOccupancy>0.39645234</parkingAreaOccupancy>
+          <parkingAreaOccupancy>0.33333334</parkingAreaOccupancy>
           <parkingAreaReference targetClass="ParkingArea" id="2[Zeil]" version="1.0"/>
-          <parkingAreaStatusTime>2021-12-11T23:58:00.000+01:00</parkingAreaStatusTime>
-          <parkingAreaTotalNumberOfVacantParkingSpaces>1361</parkingAreaTotalNumberOfVacantParkingSpaces>
+          <parkingAreaStatusTime>2021-12-12T00:23:00.000+01:00</parkingAreaStatusTime>
+          <parkingAreaTotalNumberOfVacantParkingSpaces>1050</parkingAreaTotalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>70</totalParkingCapacityLongTermOverride>
-          <totalParkingCapacityShortTermOverride>2255</totalParkingCapacityShortTermOverride>
+          <totalParkingCapacityShortTermOverride>1575</totalParkingCapacityShortTermOverride>
         </parkingAreaStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.255</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.225</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="24276[Turmcenter]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>51</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>149</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>45</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>155</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>150</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>350</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>200</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.24570024</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.22358723</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="18944[Alte Oper]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>100</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>307</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>91</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>316</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>407</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>407</totalParkingCapacityShortTermOverride>
@@ -77,7 +77,7 @@
           <parkingFacilityOccupancy>0.043956045</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="24281[Hauptbahnhof Süd]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
           <totalNumberOfOccupiedParkingSpaces>16</totalNumberOfOccupiedParkingSpaces>
           <totalNumberOfVacantParkingSpaces>348</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
@@ -85,67 +85,66 @@
           <totalParkingCapacityShortTermOverride>364</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.7239583</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.7213542</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="105479[Baseler Platz]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>278</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>106</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>277</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>107</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>384</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>384</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.50061804</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.47589618</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="24279[Konstabler]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>405</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>404</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>385</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>424</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>809</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>809</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.69014084</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.6737089</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="18497[Hauptwache]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>294</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>132</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>287</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>139</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>426</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>426</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.50441176</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.0</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="18495[Am Gericht]" version="1.0"/>
-          <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>343</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>337</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatus>closed</parkingFacilityStatus>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfVacantParkingSpaces>339</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
-          <totalParkingCapacityOverride>680</totalParkingCapacityOverride>
-          <totalParkingCapacityShortTermOverride>680</totalParkingCapacityShortTermOverride>
+          <totalParkingCapacityOverride>0</totalParkingCapacityOverride>
+          <totalParkingCapacityShortTermOverride>0</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.21572796</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.20616366</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="109240[MyZeil]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>203</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>738</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>194</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>747</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>70</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>1011</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>941</totalParkingCapacityShortTermOverride>
         </parkingFacilityStatus>
         <parkingFacilityStatus>
-          <parkingFacilityOccupancy>0.5488959</parkingFacilityOccupancy>
+          <parkingFacilityOccupancy>0.52208203</parkingFacilityOccupancy>
           <parkingFacilityReference targetClass="ParkingFacility" id="18494[Konrad-Adenauer-Straße]" version="1.0"/>
           <parkingFacilityStatus>open</parkingFacilityStatus>
-          <parkingFacilityStatusTime>2021-12-11T23:53:00.000+01:00</parkingFacilityStatusTime>
-          <totalNumberOfOccupiedParkingSpaces>348</totalNumberOfOccupiedParkingSpaces>
-          <totalNumberOfVacantParkingSpaces>286</totalNumberOfVacantParkingSpaces>
+          <parkingFacilityStatusTime>2021-12-12T00:18:00.000+01:00</parkingFacilityStatusTime>
+          <totalNumberOfOccupiedParkingSpaces>331</totalNumberOfOccupiedParkingSpaces>
+          <totalNumberOfVacantParkingSpaces>303</totalNumberOfVacantParkingSpaces>
           <totalParkingCapacityLongTermOverride>0</totalParkingCapacityLongTermOverride>
           <totalParkingCapacityOverride>634</totalParkingCapacityOverride>
           <totalParkingCapacityShortTermOverride>634</totalParkingCapacityShortTermOverride>
